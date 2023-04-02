@@ -271,6 +271,9 @@ function PlasmicHomepage__RenderFunc(props: {
                         role={"img"}
                       />
                     }
+                    link={
+                      "https://drfsaas.notion.site/DRFSaaS-Documentation-91af3d80dc364766ae6a1e4870239166" as const
+                    }
                     startIcon={
                       <ChecksvgIcon
                         className={classNames(projectcss.all, sty.svg__uN9Ie)}
